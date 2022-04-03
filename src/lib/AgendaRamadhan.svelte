@@ -1,11 +1,11 @@
 <script lang="ts">
 	import People from 'virtual:icons/fluent/people-team-24-filled';
-	import Calendar from 'virtual:icons/ic/outline-calendar-month';
 	import Food from 'virtual:icons/mdi/food-fork-drink';
 	import Coins from 'virtual:icons/wpf/coins';
 	import Book from 'virtual:icons/ic/baseline-menu-book';
 	import Bag from 'virtual:icons/ion/bag-handle';
 	import Communication from 'virtual:icons/fluent/communication-person-20-filled';
+	import Calendar from 'virtual:icons/ic/outline-calendar-month';
 	import Clock from 'virtual:icons/gala/clock';
 
 	interface agenda {

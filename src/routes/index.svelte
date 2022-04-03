@@ -19,7 +19,7 @@
 </script>
 
 <svelte:head>
-	<title>Masjid Baiturrahmaan</title>
+	<title>Yayasan An Nisaa</title>
 </svelte:head>
 
 <Divisions />

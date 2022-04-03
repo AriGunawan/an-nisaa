@@ -22,7 +22,7 @@
 	<div class="container mx-auto px-4 pt-12 lg:pt-24 lg:pb-24">
 		<div class="flex flex-wrap text-center justify-center mb-12">
 			<div class="w-full lg:w-6/12 px-4">
-				<h2 class="text-4xl font-semibold text-white">Kegiatan yang akan datang</h2>
+				<h2 class="text-4xl font-semibold text-white">Jadwal Pekan Studi Islam XXIII</h2>
 			</div>
 		</div>
 		<div class="max-w-3xl mx-auto flex flex-col gap-6">

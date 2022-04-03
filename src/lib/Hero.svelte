@@ -13,8 +13,9 @@
 			<div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
 				<div class="relative">
 					<div class="z-10 relative p-8">
-						<h1 class="text-white font-semibold text-5xl">Masjid Baiturrahmaan</h1>
-						<p class="mt-4 text-lg text-white">Taman Kopo Indah I Blok E/F Kab. Bandung</p>
+						<h1 class="text-white font-semibold text-5xl">Ramadhan Syahrul Muwasah (Bulan Pertolongan)</h1>
+						<p class="mt-4 text-lg text-white">Yayasan An Nisaa</p>
+						<p class="text-lg text-white">Taman Kopo Indah 1 Blok E/F</p>
 					</div>
 					<div class="rounded-md absolute top-0 w-full h-full bg-sky-500 mix-blend-multiply" />
 				</div>

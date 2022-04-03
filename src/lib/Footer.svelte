@@ -24,8 +24,7 @@
 	<div class="max-w-[850px] m-auto text-center mb-6 px-4">
 		Jika anda memiliki saran dan/atau kritik baik untuk website ini ataupun untuk pengurus Masjid
 		Baiturrahmaan. Silahkan klik tombol di bawah ini kemudian isi form yang muncul. Setiap saran dan
-		kritik yang anda berikan sangat berarti bagi peningkatan kualitas pelayanan di Masjid
-		Baiturrahmaan. Terima kasih.
+		kritik yang anda berikan sangat berarti bagi peningkatan kualitas kegiatan Yayasan An Nisaa. Terima kasih.
 	</div>
 	<div class="w-full flex justify-center">
 		{#if isShowFeedbackForm}``
@@ -76,7 +75,7 @@
 		<div class="flex flex-wrap items-center md:justify-between justify-center mt-12">
 			<div class="w-full md:w-4/12 px-4 mx-auto text-center">
 				<div class="text-sm text-gray-600 font-semibold py-1">
-					Copyright © {new Date().getFullYear()} Masjid Baiturrahmaan
+					Copyright © {new Date().getFullYear()} Yayasan An Nisaa
 				</div>
 			</div>
 		</div>
