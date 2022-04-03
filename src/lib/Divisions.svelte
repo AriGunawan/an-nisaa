@@ -46,7 +46,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Place />
-								<span>Masjid Baiturrahmaan Taman Kopo Indah 1</span>
+								<span>Masjid Baiturrahmaan TKI 1</span>
 							</div>
 							<div class="flex gap-2">
 								<Notes />
@@ -54,7 +54,7 @@
 									><i>Live Streaming</i> di Instagram
 									<a
 										class="underline text-green-900"
-										href="https://www.instagram.com/kajian.annisaa">Kajian.Annisaa.</a
+										href="https://www.instagram.com/kajian.annisaa">Kajian.Annisaa</a
 									></span
 								>
 							</div>
@@ -91,7 +91,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Place />
-								<span>Masjid Baiturrahmaan Taman Kopo Indah 1.</span>
+								<span>Masjid Baiturrahmaan TKI 1</span>
 							</div>
 						</div>
 					</div>
@@ -128,7 +128,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Notes />
-								<span>Pembagian 100 paket sembako untuk dhuafa.</span>
+								<span>Pembagian 100 paket sembako untuk dhuafa</span>
 							</div>
 						</div>
 					</div>
@@ -175,7 +175,7 @@
 							<div class="flex gap-2">
 								<Notes />
 								<span
-									>Donasi dalam bentuk uang.</span
+									>Donasi dalam bentuk uang</span
 								>
 							</div>
 						</div>
