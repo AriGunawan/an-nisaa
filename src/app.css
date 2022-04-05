@@ -50,3 +50,7 @@ body {
 .markdown a {
 	@apply link link-primary;
 }
+
+.child-iframe-auto iframe {
+	margin: auto !important;
+}
