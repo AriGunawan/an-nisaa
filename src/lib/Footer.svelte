@@ -22,8 +22,8 @@
 		</svg>
 	</div>
 	<div class="max-w-[850px] m-auto text-center mb-6 px-4">
-		Jika anda memiliki saran dan/atau kritik baik untuk website ini ataupun untuk pengurus Masjid
-		Baiturrahmaan. Silahkan klik tombol di bawah ini kemudian isi form yang muncul. Setiap saran dan
+		Jika anda memiliki saran dan/atau kritik baik untuk website ini ataupun untuk pengurus Yayasan
+		An Nisaa. Silahkan klik tombol di bawah ini kemudian isi form yang muncul. Setiap saran dan
 		kritik yang anda berikan sangat berarti bagi peningkatan kualitas kegiatan Yayasan An Nisaa. Terima kasih.
 	</div>
 	<div class="w-full flex justify-center">

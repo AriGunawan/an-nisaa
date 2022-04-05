@@ -35,7 +35,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Calendar />
-								<div class='flex flex-col'>
+								<div class="flex flex-col">
 									<span>4-10 April 2022</span>
 									<span>2-8 Ramadhan 1443 H</span>
 								</div>
@@ -53,6 +53,7 @@
 								<span
 									><i>Live Streaming</i> di Instagram
 									<a
+										target="_blank"
 										class="underline text-green-900"
 										href="https://www.instagram.com/kajian.annisaa">Kajian.Annisaa</a
 									></span
@@ -80,7 +81,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Calendar />
-								<div class='flex flex-col'>
+								<div class="flex flex-col">
 									<span>8-10 April 2022</span>
 									<span>6-8 Ramadhan 1443 H</span>
 								</div>
@@ -117,7 +118,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Calendar />
-								<div class='flex flex-col'>
+								<div class="flex flex-col">
 									<span>12 April 2022</span>
 									<span>10 Ramadhan 1443 H</span>
 								</div>
@@ -154,7 +155,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Calendar />
-								<div class='flex flex-col'>
+								<div class="flex flex-col">
 									<span>4-10 April 2022</span>
 									<span>2-8 Ramadhan 1443 H</span>
 								</div>
@@ -174,9 +175,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Notes />
-								<span
-									>Donasi dalam bentuk uang</span
-								>
+								<span>Donasi dalam bentuk uang</span>
 							</div>
 						</div>
 					</div>
