@@ -129,7 +129,7 @@
 							</div>
 							<div class="flex gap-2">
 								<Notes />
-								<span>Pembagian 100 paket sembako untuk dhuafa</span>
+								<span>Pembagian 150 paket sembako untuk dhuafa</span>
 							</div>
 						</div>
 					</div>

@@ -51,6 +51,6 @@ body {
 	@apply link link-primary;
 }
 
-.child-iframe-auto iframe {
+.child-iframe-auto :is(iframe, blockquote) {
 	margin: auto !important;
 }
