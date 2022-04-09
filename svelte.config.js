@@ -19,6 +19,7 @@ const config = {
 		// target: '#svelte',
 
 		vite: {
+			optimizeDeps: { include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep'] },
 			plugins: [
 				Icons({
 					compiler: 'svelte'

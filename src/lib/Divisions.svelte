@@ -16,8 +16,8 @@
 
 <section class="pb-20 bg-gray-300 -mt-24">
 	<div class="container mx-auto px-4">
-		<div class="flex flex-wrap justify-center">
-			<div class="lg:pt-6 w-full md:w-4/12 px-4 text-center">
+		<div class="flex flex-wrap justify-center max-w-5xl mx-auto">
+			<div class="lg:pt-6 w-full lg:w-1/2 px-4 text-center">
 				<div
 					class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg active:bg-gray-100"
 				>
@@ -63,7 +63,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="lg:pt-6 w-full md:w-4/12 px-4 text-center">
+			<div class="lg:pt-6 w-full lg:w-1/2 px-4 text-center">
 				<div
 					class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg active:bg-gray-100"
 				>
@@ -98,9 +98,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="flex flex-wrap justify-center">
-			<div class="lg:pt-6 w-full md:w-4/12 px-4 text-center">
+			<div class="lg:pt-6 w-full lg:w-1/2 px-4 text-center">
 				<div
 					class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg active:bg-gray-100"
 				>
@@ -135,7 +133,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="lg:pt-6 w-full md:w-4/12 px-4 text-center">
+			<div class="lg:pt-6 w-full lg:w-1/2 px-4 text-center">
 				<div
 					class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg active:bg-gray-100"
 				>

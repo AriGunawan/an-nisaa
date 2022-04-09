@@ -38,6 +38,7 @@
 	"dependencies": {
 		"daisyui": "^1.25.4",
 		"date-fns": "^2.28.0",
-		"just-sort-by": "^3.0.1"
+		"just-sort-by": "^3.0.1",
+		"svelte-carousel": "^1.0.17-rc4"
 	}
 }

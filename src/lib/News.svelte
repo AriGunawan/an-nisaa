@@ -1,5 +1,6 @@
 <script lang="ts">
 	import format from 'date-fns/format/index.js';
+	import NewsItem from './NewsItem.svelte';
 
 	export let news: Array<any>;
 </script>
@@ -28,7 +29,7 @@
 			</div>
 		</div>
 		<div class="mt-12 max-w-3xl mx-auto flex flex-col gap-6 justify-center child-iframe-auto">
-			{#each news as { title, summary, imageUrl, hasContent, date, instagramTvId, isImageOnly }}
+			{#each news as { title, summary, hasContent, date, instagramTvId, isImageOnly, imageUrls }}
 				{#if instagramTvId}
 					<blockquote
 						class="instagram-media"
@@ -144,7 +145,13 @@
 						</div>
 					</blockquote>
 				{:else}
-					<div class="rounded-xl flex flex-col lg:flex-row shadow-2xl">
+					<NewsItem
+						{title}
+						{summary}
+						date={format(new Date(date), 'dd MMMM yyyy')}
+						imageUrls={imageUrls.split(',')}
+					/>
+					<!-- <div class="rounded-xl flex flex-col lg:flex-row shadow-2xl">
 						<figure class="">
 							<img
 								src={imageUrl}
@@ -162,7 +169,7 @@
 								</div>
 							{/if}
 						</div>
-					</div>
+					</div> -->
 				{/if}
 			{/each}
 		</div>
